@@ -7,10 +7,10 @@ hello-world
 
 ## Running locally
 ## 2
-## 4
-## 5 
-## 6
-## 8
+
+
+
+
 
 Build and run using Docker Compose:
 
