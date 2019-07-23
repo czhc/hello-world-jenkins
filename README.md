@@ -8,10 +8,6 @@ hello-world
 ## Running locally
 
 
-
-
-
-
 Build and run using Docker Compose:
 
 	$ git clone https://github.com/docker/dockercloud-hello-world
