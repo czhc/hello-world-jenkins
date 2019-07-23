@@ -11,7 +11,7 @@ hello-world
 ## 5 
 ## 6
 ## 8
-## 9
+
 Build and run using Docker Compose:
 
 	$ git clone https://github.com/docker/dockercloud-hello-world
